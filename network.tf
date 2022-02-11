@@ -21,5 +21,5 @@ module "network" {
     costcenter  = "it"
   }
 
-  depends_on = [myresourcegroup]
+  
 }
